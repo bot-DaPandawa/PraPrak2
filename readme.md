@@ -1,4 +1,4 @@
-# Pra-Praktikum Modul 2
+# Modul 2
 ## HTTP Server, DNS Server, dan Reverse Proxy
 
 **Pre-requisite:**
